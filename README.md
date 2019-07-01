@@ -1,6 +1,6 @@
 # PythonDir
 fiberhome meal auto signin
-(烽火通信公研餐卡签到)
+(公研餐卡签到)
 
 
 【问题】
